@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Notichi:",
+		"subtitle": "A Notebook App",
+		"description": "Notebook app with folder organization, search functionality, local storage, cloud synchronization, and PWA installation capability.",
+		"link": "https://notichi.netlify.app/",
+		"imgURL": "/images/projects/notichi.png",
+		"iconURL": ""
+	},
+	{
+		"title": "Crybto:",
+		"subtitle": "Cryptocurrency Price Board",
+		"description": "Cryptocurrency price board with price change charts over various timeframes, prices in Toman, search functionality, and favorites for tracking market changes.",
+		"link": "https://crybto.masoudsr.ir/",
+		"imgURL": "/images/projects/crybto.png",
+		"iconURL": ""
+	},
+	{
+		"title": "Coinichi:",
+		"subtitle": "Clicker Game",
+		"description": "Coinichi: A Simple Clicker Game - Tap to collect coins, keep your ID safe for future logins, and set a password for added security!",
+		"link": "https://coinichi.masoudsr.ir/",
+		"imgURL": "/images/projects/coinichi.png",
+		"iconURL": ""
+	},
+	{
+		"title": "XO:",
+		"subtitle": "TicTacToe Remake",
+		"description": "Online and offline two-player Tic-Tac-Toe game with AI gameplay at different difficulty levels and in-game chat for communicating with friends while playing.",
+		"link": "https://xo.masoudsr.ir/",
+		"imgURL": "/images/projects/xo.png",
+		"iconURL": ""
+	},
+	{
+		"title": "WhatsChi:",
+		"subtitle": "WhatsApp Contact Manager",
+		"description": "A simple app for sending messages on WhatsApp without the need to save numbers and manage frequently used contacts, with the ability to synchronize numbers in the cloud.",
+		"link": "https://whatschi.masoudsr.ir/",
+		"imgURL": "/images/projects/whatschi.png",
+		"iconURL": ""
+	}
+]
