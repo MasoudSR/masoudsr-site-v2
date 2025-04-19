@@ -7,7 +7,7 @@ function Skills() {
         <div className='p-4'>
             <h1 className='text-5xl text-center mt-16'>Skills</h1>
             <div className='flex flex-wrap gap-4 justify-center py-24'>
-                {skillsData.map(skill => <Skill title={skill.title} imgURL={skill.imgURL} />)}
+                {skillsData.map(skill => <Skill key={skill.title} title={skill.title} imgURL={skill.imgURL} />)}
             </div>
         </div>
     )

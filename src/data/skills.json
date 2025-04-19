@@ -1,46 +1,46 @@
 [
 	{
-		"Title": "HTML5",
+		"title": "HTML5",
 		"imgURL": "/images/skills/html5.svg"
 	},
 	{
-		"Title": "CSS3",
+		"title": "CSS3",
 		"imgURL": "/images/skills/css3.svg"
 	},
 	{
-		"Title": "JavaScript",
+		"title": "JavaScript",
 		"imgURL": "/images/skills/javascript.svg"
 	},
 	{
-		"Title": "TypeScript",
+		"title": "TypeScript",
 		"imgURL": "/images/skills/typescript.svg"
 	},
 	{
-		"Title": "React.js",
+		"title": "React.js",
 		"imgURL": "/images/skills/react.svg"
 	},
 	{
-		"Title": "Next.js",
+		"title": "Next.js",
 		"imgURL": "/images/skills/nextjs.svg"
 	},
 	{
-		"Title": "Sass",
+		"title": "Sass",
 		"imgURL": "/images/skills/sass.png"
 	},
 	{
-		"Title": "Material UI",
+		"title": "Material UI",
 		"imgURL": "/images/skills/mui.png"
 	},
 	{
-		"Title": "Tailwind",
+		"title": "Tailwind",
 		"imgURL": "/images/skills/tailwind.svg"
 	},
 	{
-		"Title": "Redux",
+		"title": "Redux",
 		"imgURL": "/images/skills/redux.svg"
 	},
 	{
-		"Title": "GraphQL",
+		"title": "GraphQL",
 		"imgURL": "/images/skills/graphql.svg"
 	}
 ]
