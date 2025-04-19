@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Telegram",
+		"description": "@MasoudSR",
+		"imgURL": "/images/telegram.png",
+		"link": "https://t.me/masoudsr"
+	},
+	{
+		"title": "E-Mail",
+		"description": "sepehrrad.masoud@gmail.com",
+		"imgURL": "/images/gmail.png",
+		"link": "sepehrrad.masoud@gmail.com"
+	},
+	{
+		"title": "Github",
+		"description": "github.com/MasoudSR",
+		"imgURL": "/images/github.png",
+		"link": "https://github.com/MasoudSR"
+	},
+	{
+		"title": "LinkedIn",
+		"description": "linkedin.com/in/MasoudSR",
+		"imgURL": "/images/linkedin.png",
+		"link": "https://www.linkedin.com/in/MasoudSR/"
+	}
+]
