@@ -1,0 +1,46 @@
+[
+	{
+		"Title": "HTML5",
+		"imgURL": "/images/skills/html5.svg"
+	},
+	{
+		"Title": "CSS3",
+		"imgURL": "/images/skills/css3.svg"
+	},
+	{
+		"Title": "JavaScript",
+		"imgURL": "/images/skills/javascript.svg"
+	},
+	{
+		"Title": "TypeScript",
+		"imgURL": "/images/skills/typescript.svg"
+	},
+	{
+		"Title": "React.js",
+		"imgURL": "/images/skills/react.svg"
+	},
+	{
+		"Title": "Next.js",
+		"imgURL": "/images/skills/nextjs.svg"
+	},
+	{
+		"Title": "Sass",
+		"imgURL": "/images/skills/sass.png"
+	},
+	{
+		"Title": "Material UI",
+		"imgURL": "/images/skills/mui.png"
+	},
+	{
+		"Title": "Tailwind",
+		"imgURL": "/images/skills/tailwind.svg"
+	},
+	{
+		"Title": "Redux",
+		"imgURL": "/images/skills/redux.svg"
+	},
+	{
+		"Title": "GraphQL",
+		"imgURL": "/images/skills/graphql.svg"
+	}
+]
