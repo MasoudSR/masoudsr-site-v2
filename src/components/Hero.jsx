@@ -3,8 +3,8 @@ import React from 'react'
 
 function Hero() {
   return (
-    <div className='min-w-full min-h-screen bg-primary flex justify-center items-center' id='home'>
-      <div className='w-full h-full max-w-screen-lg flex flex-col gap-12 p-4 justify-center rounded-b-4xl lg:flex-row-reverse lg:items-center lg:p-16'>
+    <div className='min-w-full min-h-screen bg-primary flex justify-center items-center rounded-b-4xl lg:rounded-b-none' id='home'>
+      <div className='w-full h-full max-w-screen-lg flex flex-col lg:gap-12 p-4 justify-center lg:flex-row-reverse lg:items-center lg:p-16'>
         <div className='max-w-lg'>
           <Image src="/images/picture.png" width={1080} height={1080} alt='MasoudSR Picture' />
         </div>
